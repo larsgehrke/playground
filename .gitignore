@@ -1,3 +1,13 @@
+# Video files
+*.mp4
+
+# Ignore example codes
+*example_*
+
+# mac specific
+*.DS_Store*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
